@@ -43,5 +43,5 @@
       "str"
     ]
   },
-  "image": "hassioaddons/vscode-{arch}"
+  "image": "leroyshirto/vscode-{arch}"
 }
