@@ -7,6 +7,8 @@
   "startup": "services",
   "ingress": true,
   "ingress_entry": "ingress.html",
+  "panel_title": "Ingress Proxy",
+  "panel_icon": "mdi:timeline",
   "arch": [
     "aarch64",
     "amd64",
