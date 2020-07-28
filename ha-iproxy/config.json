@@ -6,7 +6,6 @@
   "url": "https://github.com/leroyshirto/ha-iproxy",
   "startup": "services",
   "ingress": true,
-  "ingress_entry": "ingress.html",
   "arch": [
     "aarch64",
     "amd64",
