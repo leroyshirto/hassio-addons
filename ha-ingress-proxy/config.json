@@ -16,8 +16,6 @@
     "i386"
   ],
   "stdin": true,
-  "hassio_api": false,
-  "hassio_role": "manager",
   "boot": "auto",
   "options": {
   },
